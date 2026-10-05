@@ -1,0 +1,4 @@
+interface:
+  display_name: "岗位分析 5 步"
+  short_description: "用五步法产出岗位画像、能力要求与绩效指标"
+  default_prompt: "请用岗位分析五步法分析以下岗位材料："
