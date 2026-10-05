@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" alt="岗位分析五步法图标" width="128">
+</p>
+
 # 🍎 岗位分析五步法 · Job Analysis 5 Steps
 
 > 🧭 用五步法把岗位说明 📄、访谈记录 🎙️ 或业务需求 📊，整理为清晰的岗位画像 🖼️、能力要求 💪 和可衡量的绩效结果 📈。
